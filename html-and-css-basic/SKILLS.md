@@ -1,0 +1,39 @@
+# Skills
+
+- Can build a two column layout
+- Can style 4 kinds of buttons that work for <button> and <a href>
+- Can build (x,y,z bootstrap parts)
+- Can build a sticky footer
+- Can build a fixed header
+- Can write CSS selectors like these:
+  - `.signup-form`
+  - `.signup-form .first-name-field`
+  - `table.stripped-table`
+  - `a.button:hover`
+  - `.IconButton > button`
+  - `table > tr:nth-child(odd)`
+- Can use Pseudo Selectors
+  - :hover
+  - :focus
+  - :active
+  - :visited
+  - :disabled
+  - :checked
+  - :nth-child
+-  Can wield these styles:
+  - `border`
+  - `margin`
+  - `padding`
+  - `height`
+  - `width`
+  - `background`
+  - `display`
+  - `color`
+  - `font-size`
+  - `font-weight`
+  - `flex`
+  - `flex-direction`
+  - `flex-wrap`
+  - `align-items`
+  - `align-content`
+- Can explain and diagram the box model

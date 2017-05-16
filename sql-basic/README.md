@@ -1,14 +1,14 @@
 # Topic Benchmark: SQL [Basic]
 
-Complete all of the tasks below. Make sure that your solution meets all of the **criteria**.
+Complete all of the tasks below. Make sure that your solution meets all of the [criteria](#criteria).
 
 ## Getting Started
 
-Create a Postgres database called `sql_exercises`. Use this database for all of the exercises.
+Create a Postgres database called `sql_benchmark`. Use this database for all of the exercises.
 
 ## 1: Build the SQL Schema
 
-**NOTE:** by schema we mean a set of table definitions **NOT** a [postgresql schema](https://www.postgresql.org/docs/8.2/static/ddl-schemas.html)
+**NOTE:** by schema we mean a set of table definitions **NOT** a [postgresql schema](https://www.postgresql.org/docs/8.2/static/ddl-schemas.html).
 
 Create the schema for the following tables.
 
@@ -28,7 +28,7 @@ Create the schema for the following tables.
 - `likee_id` is a foreign key reference to a student
 - write the SQL in the file `sql/03-create-table-like.sql`
 
-Run the SQL for the schema against the `sql-exercises` database to create the tables.
+Run the SQL for the schema against the `sql_benchmark` database to create the tables.
 
 ### 2: Load the Data
 

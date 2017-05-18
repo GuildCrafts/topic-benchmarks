@@ -1,7 +1,7 @@
 # Skills
 
 - Can build a two column layout
-- Can style 4 kinds of buttons that work for <button> and <a href>
+- Can style 4 kinds of buttons that work for `<button>` and `<a href>`
 - Can build (x,y,z bootstrap parts)
 - Can build a sticky footer
 - Can build a fixed header

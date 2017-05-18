@@ -20,7 +20,7 @@
   - :disabled
   - :checked
   - :nth-child
--  Can wield these styles:
+- Can wield these styles:
   - `border`
   - `margin`
   - `padding`
